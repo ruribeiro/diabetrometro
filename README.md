@@ -1,1 +1,0 @@
-Atividade alura python OO.
