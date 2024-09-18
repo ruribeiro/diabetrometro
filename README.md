@@ -18,6 +18,3 @@ Este projeto Python cria uma interface gráfica simples utilizando Tkinter para 
 * **Python:** Linguagem de programação utilizada para desenvolver o projeto.
 * **Tkinter:** Biblioteca Python para criar interfaces gráficas.
 
-### Estrutura do Código
-```python
-# ... (código Python aqui)
